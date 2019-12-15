@@ -1,0 +1,17 @@
+XX #001 project init
+XX #002 install typescript
+#003 create color array
+#004 create random color button
+#005 creat 6 random buttons
+
+#010 create one color button for user to select
+#011 create user panel
+#012 create game field
+
+
+#022 create scorefield
+
+
+
+Pokemon mastermind game with the pokemon api?
+
